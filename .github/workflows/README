@@ -1,0 +1,6 @@
+VPC
+ Two public subnets : QTY 2
+ Two private subnets : QTY 2
+ Route Tables : QTY 3
+ Internet Gateway
+ Nate Gateways 
